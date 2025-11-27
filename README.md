@@ -7,3 +7,6 @@ I've always struggled to find a good way to store SMD component tapes. So I deci
 Tested and printed on Bambu A1 with OrcaSlicer.
 
 ![IMG_2621](https://github.com/user-attachments/assets/fe2fdf13-c195-4b3e-ba72-828c96a4b65c)
+
+<img width="727" height="689" alt="Screenshot 2025-11-27 155258" src="https://github.com/user-attachments/assets/6c7a4799-daca-4123-9fac-f8b363d301b2" />
+<img width="657" height="794" alt="Screenshot 2025-11-27 155419" src="https://github.com/user-attachments/assets/95ada3e5-8116-49f5-a979-52f317030615" />
